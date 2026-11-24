@@ -1,0 +1,13 @@
+JUnit Test Results
+
+IDE: Eclipse
+Test Framework: JUnit 5
+
+Total Tests: 14
+Passed: 14
+Failures: 0
+Errors: 0
+
+Execution Status: SUCCESS
+
+All 14 test methods were successfully executed in Eclipse using JUnit 5.
